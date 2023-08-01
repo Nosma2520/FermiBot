@@ -4,7 +4,7 @@ import json
 import random
 
 # Replace 'YOUR_DISCORD_BOT_TOKEN' with your actual bot token from the Discord Developer Portal
-DISCORD_BOT_TOKEN = 'NzE0OTA0MzU1MDQzODAzMTM2.GOKfRn.93D8VEmreHvGjmr6a_BxfFdW4I7uYkSjqZtk-0'
+DISCORD_BOT_TOKEN 
 QUESTIONS_FILE = 'questions.json'
 
 
