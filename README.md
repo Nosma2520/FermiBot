@@ -1,12 +1,14 @@
 # FermiBot
 
+<a href="https://github.com/Nosma2520/FermiBot/blob/master/LICENSE">
+    <img alt="GitHub" src="https://img.shields.io/github/license/Nosma2520/FermiBot">
+  </a>
+  <br/>
 <a href="https://www.python.org/downloads/">
     <img src="https://img.shields.io/badge/Made%20With-Python%203.11.4-blue.svg?style=for-the-badge&logo=Python" alt="Made with Python 3.11.4">
   </a>     
   
-  <a href="https://github.com/Nosma2520/FermiBot/blob/master/LICENSE">
-    <img alt="GitHub" src="https://img.shields.io/github/license/Nosma2520/FermiBot">
-  </a>
+  
 
    <br/>
 This is a Discord bot specifically designed to practice for the Science Olympiad event Fermi Questions. In Fermi Questions, you are provided a type of estimation problem, where the answer is an educated guess using logical reasoning and minimal data. The bot will ask a Fermi question, and users have 2 minutes to respond with their answer in the form of the power of ten that is closest to the actual answer
