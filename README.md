@@ -27,6 +27,12 @@ pip install discord.py
 3. Place your Discord bot token in the **`DISCORD_BOT_TOKEN`** variable inside the `bot.py` file.
 
 ## Usage
+There are two options for using this bot: self-hosting  and using the hosted version. The main difference is that self-hosting is a bit more difficult, tedious, and expensive than using the hosted version. However, self-hosting give you more control over the bot and allows you to make your own customizations as you see fit.
+
+### Using the Hosted Version
+1. [Click the bot invite link here](https://discord.com/api/oauth2/authorize?client_id=714904355043803136&permissions=292058164288&scope=bot) and select the server you want to add the bot to. Also make sure you have the right permissions, Manage Server, to be able to add Discord Bots to your server.
+
+### Self - Hosting:
 1. Run the bot.py script:
 ```
 python bot.py
